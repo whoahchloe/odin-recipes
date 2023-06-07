@@ -1,7 +1,22 @@
 body {
     font-family: Verdana, 'Calibri', sans-serif;
+    line-height: 1.5;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+.description {
+    font-style: italic;
+    color: #6B6B6B;
 }
 
 .link {
     font-weight: 800;
+}
+
+.steps {
+    background-color: crimson;
+    color: beige;
 }
